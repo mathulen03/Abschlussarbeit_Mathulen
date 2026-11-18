@@ -1,1 +1,1 @@
-# Abschlussarbeit_Mathulen
+PHP-Programm für die Konsole. Man gibt ein Budget und Artikel mit Preis ein, bis man x eingibt. Am Schluss zeigt es Anzahl Artikel, teuersten und billigsten Artikel, Total und Rest vom Budget. Die Artikel werden in einkaufsliste.txt gespeichert.
